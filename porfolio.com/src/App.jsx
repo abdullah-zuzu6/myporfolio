@@ -7,7 +7,7 @@ function App() {
   return (
     <>
  
-      <h1>Welcome to abdullah.com </h1>
+      <h2>Welcome to my coming Porfolio </h2>
       
    
     </>
